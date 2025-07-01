@@ -44,10 +44,10 @@ const goal2025 = "Build awesome front-end apps and grow in tech";
   <a href="https://www.linkedin.com/in/abdelrahman-shalaby-55015631b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/201008342449" target="_blank">
+  <a href="https://wa.me/201007454541" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/bedoalmagek" target="_blank">
+  <a href="https://www.facebook.com/Abdelrahman.abdelrahem.shalaby" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
